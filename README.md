@@ -1,8 +1,6 @@
-# React + Vite
+# Modern UI/UX GPT-3
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Create components for sections such as Home, What is GPT?, Open AI, Case Studies, and Library
+- Setup jsconfig.json and vite.config.js files to use absolute path while importing components
+- Add media queries for each section to make them responsive for mobile, tablet and desktop devices
+- Use BEM (Block Element Modifier) to name CSS classes
