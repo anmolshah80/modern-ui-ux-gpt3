@@ -1,4 +1,4 @@
-# Modern UI/UX GPT-3
+# [Modern UI/UX GPT-3](https://www.figma.com/design/MjSVKJM6nSVjZ70t9IPWBA/modern-ui-ux-gpt3)
 
 - Create components for sections such as Home, What is GPT?, Open AI, Case Studies, and Library
 - Setup jsconfig.json and vite.config.js files to use absolute path while importing components
